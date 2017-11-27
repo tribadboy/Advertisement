@@ -1,2 +1,2 @@
 # Advertisement
-Draft documents about advertisements.
+Draft documents about advertisements. (Wiki)
